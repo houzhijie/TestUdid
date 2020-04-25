@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>UDID</key>
+        <dict>
+            <key>URL</key>
+            <string>https://bitbitsport.me/udid</string>
+            <key>DeviceAttributes</key>
+            <array>
+                <string>UDID</string>
+                <string>IMEI</string>
+                <string>ICCID</string>
+                <string>VERSION</string>
+                <string>PRODUCT</string>
+            </array>
+        </dict>
+        <key>PayloadOrganization</key>
+        <string>dev.skyfox.org</string>
+        <key>PayloadDisplayName</key>
+        <string>查询设备UDID</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>PayloadUUID</key>
+        <string>58eb8f11-7d71-48c9-918e-4e5677fee97d</string>
+        <key>PayloadIdentifier</key>
+        <string>dev.skyfox.profile-service</string>
+        <key>PayloadDescription</key>
+        <string>本文件仅用来获取设备ID</string>
+        <key>PayloadType</key>
+        <string>Profile Service</string>
+    </dict>
+</plist>
